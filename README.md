@@ -1,6 +1,6 @@
 # Youtube Unsubscribe All Javascript
 
-```
+```javascript
 /** 
   * Youtube bulk unsubsribe fn.
  * Wrapping this in an IIFE for browser compatibility.
